@@ -9,7 +9,7 @@ HTML
 CSS
 
 WEBSITE
- https://jmbm9.github.io/horiseon/
+  https://jmbm9.github.io/-The-horiseon-way/
 
 CONTRIBUTION
 Made with ❤️️ by Horiseon
